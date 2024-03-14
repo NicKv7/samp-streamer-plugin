@@ -1,12 +1,10 @@
 # SA-MP Streamer Plugin
 [![GitHub Release](https://img.shields.io/github/release/NicKv7/samp-streamer-plugin.svg)](https://github.com/NicKv7/samp-streamer-plugin/releases/latest) [![Build Status](https://github.com/NicKv7/samp-streamer-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/NicKv7/samp-streamer-plugin/actions/workflows/build.yml)
 
-This plugin streams objects, pickups, checkpoints, race checkpoints, map icons, 3D text labels, and actors at user-defined server ticks. Basic area detection is also included. Because it is written entirely in C++, much of the overhead from PAWN is avoided. This streamer, as a result, is quite a bit faster than any other implementation currently available in PAWN.
+Este plugin transmite objetos, pickups, pontos de verificação, pontos de verificação de corrida, ícones de mapas, rótulos de texto 3D e atores em ticks de servidor definidos pelo usuário. A detecção básica de área também está incluída. Por ser escrito inteiramente em C++, grande parte da sobrecarga do PAWN é evitada. Como resultado, este streamer é um pouco mais rápido do que qualquer outra implementação atualmente disponível no PAWN.
 
-## Documentation
+## Documentação
 
-Documentation can  be found on the [wiki](https://github.com/samp-incognito/samp-streamer-plugin/wiki).
+[wiki](https://github.com/NicKv7/samp-streamer-plugin/wiki).
 
-## Download
 
-The latest binaries for Windows and Linux can be found on the [releases page](https://github.com/samp-incognito/samp-streamer-plugin/releases).
